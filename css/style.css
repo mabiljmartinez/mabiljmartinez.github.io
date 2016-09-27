@@ -29,16 +29,13 @@ background-size: cover;
 }
 
 
-#cabecera {background-image:url(img/logoUNAD.png); height: 120px; margin: 0px 0px 4px 0px}
 
-#logotipo {float:left; padding:13px 0px 13px 10px}
-#banner {float:right}
 
 h1{
 
-font-family: 'Shadows Into Light', cursive;
+font-family: 'Shadows Into Light', verdana;
 
-color: white;
+color:#006680;
 
 margin-left: 10px;
 
@@ -64,7 +61,7 @@ text-align: left;
 
 h3{
 
-font-family: 'Shadows Into Light', cursive;;
+font-family: 'Shadows Into Light', verdana;
 
 color:white;
 
@@ -79,9 +76,9 @@ header{
 
 	width: 1000px;
 
-	height: 120 px;
+	height: 120px;
 
-	background: rgba(255, 255, 255, 10,70);
+	background: rgba(255, 255, 255,10,70);
 
 }
 
@@ -102,6 +99,7 @@ ul{
 margin: auto;
 
 padding-top: 4px;
+
 
 }
 
@@ -147,7 +145,7 @@ aside{
 
 	width: 280px;
 
-	background: #808080;
+	background: #FF5900;
 
 	height: 600px;
 
@@ -164,8 +162,7 @@ aside{
 footer{
 
 width: 1000px;
-height:
- 70px;
+height:300px;
 
 background: #000000;
 float: left;
@@ -220,8 +217,7 @@ text-decoration: none;
  text-decoration: none;
 }
 
-/
-*SEUDO CLASES*/
+/*SEUDO CLASES*/
 
 
 
